@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "columnAnalyzed": "Comment Text",
+    "evaluationTime": 5.649,
+    "processingSpeed": "1.8",
+    "timestamp": "2026-02-27T03:06:09.467Z"
+  },
+  "stats": {
+    "total": 10,
+    "processed": 10,
+    "positive": 3,
+    "negative": 7,
+    "neutral": 0,
+    "verifiedTotal": 9,
+    "verifiedPositive": 3,
+    "verifiedNegative": 6,
+    "verifiedNeutral": 0,
+    "totalEngagement": 0,
+    "averageEngagement": 0,
+    "currentScore": -40,
+    "scoreHistory": [
+      -100,
+      -100,
+      -100,
+      -100,
+      -100,
+      100,
+      -100,
+      100,
+      -100,
+      100
+    ],
+    "startTime": 1772161517451,
+    "currentComment": {
+      "id": 10,
+      "text": "Always stunning",
+      "sentiment": "positive",
+      "score": 0.95,
+      "isVerified": true,
+      "engagement": 0
+    },
+    "endTime": 1772161523100,
+    "brandSentiment": 30,
+    "netSentimentScore": -40
+  },
+  "comments": [
+    {
+      "id": 1,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 2,
+      "text": "BAAAADDDD",
+      "sentiment": "negative",
+      "score": -0.9,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 3,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 4,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 5,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 6,
+      "text": "Love it",
+      "sentiment": "positive",
+      "score": 0.85,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 7,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 8,
+      "text": "Love the style",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 9,
+      "text": "Hate That",
+      "sentiment": "negative",
+      "score": -0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 10,
+      "text": "Always stunning",
+      "sentiment": "positive",
+      "score": 0.95,
+      "isVerified": true,
+      "engagement": 0
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "columnAnalyzed": "Comment Text",
+    "evaluationTime": 11.457,
+    "processingSpeed": "1.2",
+    "timestamp": "2026-02-27T04:46:18.808Z"
+  },
+  "stats": {
+    "total": 14,
+    "processed": 14,
+    "positive": 13,
+    "negative": 0,
+    "neutral": 1,
+    "verifiedTotal": 5,
+    "verifiedPositive": 5,
+    "verifiedNegative": 0,
+    "verifiedNeutral": 0,
+    "totalEngagement": 0,
+    "averageEngagement": 0,
+    "currentScore": 92.85714285714286,
+    "scoreHistory": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      0,
+      100,
+      100
+    ],
+    "startTime": 1772161453605,
+    "currentComment": {
+      "id": 14,
+      "text": "❤️",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": true,
+      "engagement": 0
+    },
+    "endTime": 1772161465062,
+    "brandSentiment": 100,
+    "netSentimentScore": 92.85714285714286
+  },
+  "comments": [
+    {
+      "id": 1,
+      "text": "🔥🔥🔥",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 2,
+      "text": "🥳🥳🥳",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 3,
+      "text": "⚡️⚡️⚡️⚡️",
+      "sentiment": "positive",
+      "score": 0.7,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 4,
+      "text": "❤️❤️❤️❤️",
+      "sentiment": "positive",
+      "score": 1,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 5,
+      "text": "Yesssss!",
+      "sentiment": "positive",
+      "score": 0.8,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 6,
+      "text": "😍😍😍",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 7,
+      "text": "😂",
+      "sentiment": "positive",
+      "score": 0.6,
+      "isVerified": true,
+      "engagement": 0
+    },
+    {
+      "id": 8,
+      "text": "😂",
+      "sentiment": "positive",
+      "score": 0.6,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 9,
+      "text": "😂😂😂",
+      "sentiment": "positive",
+      "score": 0.7,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 10,
+      "text": "والله اميزنق 🤍🤣",
+      "sentiment": "positive",
+      "score": 0.95,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 11,
+      "text": "❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥جدة غييير",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 12,
+      "text": "😝😜😜",
+      "sentiment": "neutral",
+      "score": 0.1,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 13,
+      "text": "🤩🤩❤️‍🩹",
+      "sentiment": "positive",
+      "score": 0.8,
+      "isVerified": false,
+      "engagement": 0
+    },
+    {
+      "id": 14,
+      "text": "❤️",
+      "sentiment": "positive",
+      "score": 0.9,
+      "isVerified": true,
+      "engagement": 0
+    }
+  ]
+}
